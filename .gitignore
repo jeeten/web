@@ -1,0 +1,9 @@
+*.terraform
+*.tfstate
+*.log
+*.pem
+*.key
+*.pub
+*.idea
+myenv/*
+__pycache__/*
