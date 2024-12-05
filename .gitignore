@@ -5,5 +5,8 @@
 *.key
 *.pub
 *.idea
+*.backup
+*.lock.hcl:
+
 myenv/*
 __pycache__/*
