@@ -23,3 +23,7 @@ output "tags" {
 output "JumpHost" {
   value = aws_instance.my_instance.public_ip
 }
+
+output "EKS_Cluster" {
+  value = aws_eks_cluster.eks.name
+}
