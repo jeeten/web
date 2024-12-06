@@ -1,0 +1,16 @@
+
+__pycache__/
+
+.idea/
+
+myenv/
+
+hello_world/developer_accessKeys.csv
+
+*.hcl
+
+*.backup
+
+*.tfstate
+
+*.exe
